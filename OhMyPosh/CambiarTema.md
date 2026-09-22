@@ -35,3 +35,16 @@ eval "$(oh-my-posh init bash --config ~/.poshthemes/aliens.omp.json)"
 ```
 source ~/.bashrc
 ```
+
+
+# ELIMINA EL TEMA ANTERIOR:
+
+## Comandito:
+```
+rm ~/.poshthemes/aliens.omp.json
+```
+
+## Comprueba:
+```
+ls ~/.poshthemes/
+```
