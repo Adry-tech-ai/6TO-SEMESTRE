@@ -2,12 +2,12 @@
 
 ## 1. Descarga el tema nuevo:
 ```
-wget -O ~/.poshthemes/aliens.omp.json https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/main/themes/[TEMA_NUEVO].omp.json
+wget -O ~/.poshthemes/[TEMA_NUEVO].omp.json https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/main/themes/[TEMA_NUEVO].omp.json
 ```
 
 ## 2. Comprueba que existe:
 ```
-ls -l ~/.poshthemes/aliens.omp.json
+ls -l ~/.poshthemes/[TEMA_NUEVO].omp.json
 ```
 
 ## 3. Pruébalo:
