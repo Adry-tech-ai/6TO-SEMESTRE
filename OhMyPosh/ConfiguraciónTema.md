@@ -15,15 +15,3 @@ code ~/.poshthemes/[TEMA].omp.json
 ```
 source ~/.bashrc
 ```
-
-# ELIMINA EL TEMA ANTERIOR:
-
-## Comandito:
-```
-rm ~/.poshthemes/aliens.omp.json
-```
-
-## Comprueba:
-```
-ls ~/.poshthemes/
-```
