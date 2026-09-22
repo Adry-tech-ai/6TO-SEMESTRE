@@ -41,7 +41,7 @@ source ~/.bashrc
 
 ## Comandito:
 ```
-rm ~/.poshthemes/aliens.omp.json
+rm ~/.poshthemes/[TEMA_ANTERIOR].omp.json
 ```
 
 ## Comprueba:
