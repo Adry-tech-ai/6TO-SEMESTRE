@@ -10,3 +10,8 @@ code ~/.poshthemes/[TEMA].omp.json
 "type": "prompt",
 "newline": true
 ```
+
+## Guarda los cambios con:
+```
+source ~/.bashrc
+```
